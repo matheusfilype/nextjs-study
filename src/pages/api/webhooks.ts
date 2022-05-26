@@ -54,8 +54,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 
             await saveSubscription(
               subscription.id,
-              subscription.customer.toString(),
-              type === "customer.subscription.created"
+              subscription.customer.toString()
             );
 
             break;
