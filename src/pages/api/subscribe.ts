@@ -5,7 +5,7 @@ import { getSession } from "next-auth/react";
 import { fauna } from "../../services/fauna";
 import { query } from "faunadb";
 
-type User = {
+export type User = {
   ref: {
     id: string;
   };
