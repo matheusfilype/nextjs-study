@@ -1,0 +1,30 @@
+{
+  "id": "dc601a8e-c4b3-4883-8a9f-9f32a1cf710a",
+  "uid": "doloribus-ut-et",
+  "type": "1",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Amet consectetur fugiat anim exercitation labore velit minim duis ad cupidatat reprehenderit aliqua ut nulla amet. Mollit nisi amet tempor est. Aute dolore nisi sunt ex ex occaecat nulla anim laborum magna.",
+        "spans": []
+      }
+    ],
+    "img": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9?w=900&h=500&fit=crop"
+    },
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Velit adipisicing velit excepteur anim. Incididunt voluptate cupidatat labore magna reprehenderit labore enim deserunt ut minim ea. Aliqua do ut reprehenderit Lorem dolore pariatur nisi aliqua.",
+        "spans": []
+      }
+    ]
+  }
+}
